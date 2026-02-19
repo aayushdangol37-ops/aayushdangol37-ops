@@ -1,7 +1,7 @@
 # 💫 About Me:
 I'm currently completing my bscit and looking for an internship to improve and hone my technical skill 
 
-j
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aayush-dangol-8a5b70372/) 
 
