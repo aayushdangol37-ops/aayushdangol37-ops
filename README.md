@@ -14,7 +14,7 @@ I'm currently completing my BScIT and actively seeking an internship opportunity
 
 ## 💫 Featured Projects
 - **[Vulnerability Scanner](https://github.com/aayushdangol37-ops/vulnerability-scanner)** - A security tool for scanning and identifying potential vulnerabilities in web applications
-- **[Test Target](https://github.com/aayushdangol37-ops/test-target-)** - A practice repository for learning and implementing testing methodologies
+
 
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aayush-dangol-8a5b70372/)
